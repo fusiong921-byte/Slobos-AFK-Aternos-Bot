@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cart3322.aternos.me",
+    "ip": "damselfish.aternos.host:11859",
     "port": 11859,
     "version": "",
     "try-creative": false
